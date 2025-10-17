@@ -1,6 +1,6 @@
 # Git Cleaner 🧹
 
-[🇪🇸 Versión en español](README.es.md)
+[🇨🇴 Versión en español](README.es.md)
 
 A Bash script that **automates the cleaning** of global Git credentials (`user.name` and `user.email`) on shared Linux machines.
 
